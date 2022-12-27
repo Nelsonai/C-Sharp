@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\Input\bin\Debug\net7.0\input.exe
+C:\Users\Nelson-AI\Desktop\C#\Input\bin\Debug\net7.0\input.deps.json
+C:\Users\Nelson-AI\Desktop\C#\Input\bin\Debug\net7.0\input.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\Input\bin\Debug\net7.0\input.dll
+C:\Users\Nelson-AI\Desktop\C#\Input\bin\Debug\net7.0\input.pdb
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.dll
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\refint\input.dll
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.pdb
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\input.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\Input\obj\Debug\net7.0\ref\input.dll
