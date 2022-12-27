@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\bin\Debug\net7.0\AdditionCLass.exe
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\bin\Debug\net7.0\AdditionCLass.deps.json
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\bin\Debug\net7.0\AdditionCLass.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\bin\Debug\net7.0\AdditionCLass.dll
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\bin\Debug\net7.0\AdditionCLass.pdb
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.dll
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\refint\AdditionCLass.dll
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.pdb
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\AdditionCLass.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\AdditionCLass\obj\Debug\net7.0\ref\AdditionCLass.dll
