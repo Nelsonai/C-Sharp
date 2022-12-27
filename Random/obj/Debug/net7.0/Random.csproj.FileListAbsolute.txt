@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\Random\bin\Debug\net7.0\Random.exe
+C:\Users\Nelson-AI\Desktop\C#\Random\bin\Debug\net7.0\Random.deps.json
+C:\Users\Nelson-AI\Desktop\C#\Random\bin\Debug\net7.0\Random.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\Random\bin\Debug\net7.0\Random.dll
+C:\Users\Nelson-AI\Desktop\C#\Random\bin\Debug\net7.0\Random.pdb
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.dll
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\refint\Random.dll
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.pdb
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\Random.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\Random\obj\Debug\net7.0\ref\Random.dll

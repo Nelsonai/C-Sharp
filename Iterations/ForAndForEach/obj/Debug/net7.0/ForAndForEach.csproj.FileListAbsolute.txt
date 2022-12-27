@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\bin\Debug\net7.0\ForAndForEach.exe
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\bin\Debug\net7.0\ForAndForEach.deps.json
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\bin\Debug\net7.0\ForAndForEach.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\bin\Debug\net7.0\ForAndForEach.dll
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\bin\Debug\net7.0\ForAndForEach.pdb
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.dll
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\refint\ForAndForEach.dll
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.pdb
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ForAndForEach.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\Iterations\ForAndForEach\obj\Debug\net7.0\ref\ForAndForEach.dll
