@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\bin\Debug\net7.0\Conditionals.exe
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\bin\Debug\net7.0\Conditionals.deps.json
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\bin\Debug\net7.0\Conditionals.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\bin\Debug\net7.0\Conditionals.dll
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\bin\Debug\net7.0\Conditionals.pdb
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.dll
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\refint\Conditionals.dll
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.pdb
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\Conditionals.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\Conditionals\obj\Debug\net7.0\ref\Conditionals.dll
