@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\bin\Debug\net7.0\VandRTypes.exe
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\bin\Debug\net7.0\VandRTypes.deps.json
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\bin\Debug\net7.0\VandRTypes.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\bin\Debug\net7.0\VandRTypes.dll
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\bin\Debug\net7.0\VandRTypes.pdb
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.dll
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\refint\VandRTypes.dll
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.pdb
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\VandRTypes.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\VandRTypes\obj\Debug\net7.0\ref\VandRTypes.dll
