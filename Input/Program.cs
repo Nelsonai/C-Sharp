@@ -8,7 +8,7 @@
             var input = Console.ReadLine();
 
             if (string.IsNullOrWhiteSpace(input)){
-                Console.WriteLine("You didnt input a name.");
+                Console.WriteLine("You didn't input a name.");
                 Environment.Exit(0);
             }
             Console.WriteLine("Hello, " + input);
