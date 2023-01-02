@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\bin\Debug\net7.0\ClassFIles.exe
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\bin\Debug\net7.0\ClassFIles.deps.json
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\bin\Debug\net7.0\ClassFIles.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\bin\Debug\net7.0\ClassFIles.dll
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\bin\Debug\net7.0\ClassFIles.pdb
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.dll
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\refint\ClassFIles.dll
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.pdb
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ClassFIles.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\ClassFiles\obj\Debug\net7.0\ref\ClassFIles.dll
