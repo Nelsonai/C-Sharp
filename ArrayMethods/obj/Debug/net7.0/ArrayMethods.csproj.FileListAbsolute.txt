@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\bin\Debug\net7.0\ArrayMethods.exe
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\bin\Debug\net7.0\ArrayMethods.deps.json
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\bin\Debug\net7.0\ArrayMethods.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\bin\Debug\net7.0\ArrayMethods.dll
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\bin\Debug\net7.0\ArrayMethods.pdb
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.dll
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\refint\ArrayMethods.dll
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.pdb
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ArrayMethods.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\ArrayMethods\obj\Debug\net7.0\ref\ArrayMethods.dll
