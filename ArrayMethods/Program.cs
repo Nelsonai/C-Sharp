@@ -1,4 +1,4 @@
-﻿namespace Name
+namespace Name
 {
     class program{
         static void Main(string[] args)
@@ -40,6 +40,21 @@
             {
                 Console.WriteLine(r);
             }
+
+            //! Substring()
+            var text = "Hello world";
+            var subString = text.Substring(2, 5);
+            Console.WriteLine($"substring is {subString}");
+            Console.WriteLine("(Showing substring method)");
+
+            // ! Equal()
+            string firstString = "This is Jamie";
+            string secondString = "Hello";
+            Console.WriteLine(firstString.Equals("This is Jamie"));
+            // ? returns true 
+            Console.WriteLine(firstString.Equals(secondString));
+            // ? returns false as the two strings (firstString and secondString) are not equal.
+            Console.WriteLine($"(showing Equal method)");
         }
     }
 }
